@@ -1,5 +1,5 @@
 
-# Calorie Tracker
+# Control de Gastos
 
 Una aplicacion creada con React.js para tener un control de gastos realizados segun un presupuesto inicial
 
